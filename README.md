@@ -1,6 +1,6 @@
 # leuqas yabot
 
-16-year-old full stack developer from Cabanatuan, PH. Started coding at 11, been working with real clients since.
+16-year-old full stack developer from PH. Started coding at 11, been working with real clients since.
 
 I build full-stack web apps — currently shipping a Supreme Court-compliant e-notarization SaaS platform as a solo dev.
 
